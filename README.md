@@ -8,5 +8,5 @@ des employés et optimiser les performances au sein de l'organisation.
 ## Contenu du Projet
 
 - **HRDataset_v14.csv** : Contient le jeu de données utilisés pour l'analyse. Ces données sont disponibles sur Kaggle
-- ** Le Notebook** : Contient les scripts, les visualisations et les résumés des résultats d'analyse.
+- **Le Notebook** : Contient les scripts, les visualisations et les résumés des résultats d'analyse.
 
