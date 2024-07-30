@@ -1,4 +1,4 @@
-# Analyse dedDonnées RH
+# Analyse des données des RH
 
 ## Description
 Ce projet vise à analyser des données de ressources humaines pour comprendre divers aspects tels que l'attrition des employés, les performances, la satisfaction,
